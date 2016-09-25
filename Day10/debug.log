@@ -1,0 +1,10 @@
+[0918/154414:ERROR:file_io.cc(30)] read: expected 1176, observed 0
+[0918/154414:ERROR:crash_report_database_win.cc(429)] failed to read records
+[0918/154442:ERROR:file_io.cc(30)] read: expected 1176, observed 0
+[0918/154442:ERROR:crash_report_database_win.cc(429)] failed to read records
+[0918/154517:ERROR:file_io.cc(30)] read: expected 1176, observed 0
+[0918/154517:ERROR:crash_report_database_win.cc(429)] failed to read records
+[0918/154536:ERROR:file_io.cc(30)] read: expected 1176, observed 0
+[0918/154536:ERROR:crash_report_database_win.cc(429)] failed to read records
+[0918/154848:ERROR:file_io.cc(30)] read: expected 1176, observed 0
+[0918/154848:ERROR:crash_report_database_win.cc(429)] failed to read records

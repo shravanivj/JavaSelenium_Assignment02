@@ -1,0 +1,2 @@
+[0918/134013:ERROR:file_io.cc(30)] read: expected 1176, observed 0
+[0918/134013:ERROR:crash_report_database_win.cc(429)] failed to read records
